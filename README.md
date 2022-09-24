@@ -29,7 +29,7 @@ The project is designed to be dataset independent so if there is a dataset that 
 
 ## Debugging and Profiling
 ### Debugging Report
-Two plots show dependence between loss and step: Blue one shows the `train_loss/steps`, the Orange one shows the `test_loss/steps`.
+Plots show dependence between loss and step: Blue one shows the `train_loss/steps`, the Orange one shows the `test_loss/steps`.
 ### Train/Test loss plot:
 ![train loss](Screenshots/4.png)
 
